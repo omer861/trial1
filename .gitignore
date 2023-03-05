@@ -2,6 +2,6 @@
 *.net
 
 !fifth.java
-
+!third.net
 [aeiou]*
 
