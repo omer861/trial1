@@ -1,0 +1,7 @@
+*.py
+*.net
+
+!fifth.java
+
+[aeiou]*
+
